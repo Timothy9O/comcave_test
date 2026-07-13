@@ -9,6 +9,6 @@ Dieses Repository dient zum Üben von Git und GitHub.
 - Änderungen mit Git speichern
 - Änderungen zu GitHub pushen
 
-## Teilnehmer
+## Wer bin ich
 
 - Holger
